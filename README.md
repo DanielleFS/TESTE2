@@ -1,14 +1,13 @@
 # TESTE2
 Projeto de teste
 
-Commit 1
-Gilmar Rsjjs
 
-Comitar minhas alterações no repositorio local
-Pulll para pegar possiveis atualizações do repositorio remoto
-merge se for necessario
-Push para enviar todos os commites para o repositorio remoto
+## Pessoas
 
-Alguma coisa...Arthur...
-alguma coisa alguma coisa 
+* Gilmar
+* Arthur
+* Danielle
+* Quem mais for
+
+# Vamos para Accenture? 
 
