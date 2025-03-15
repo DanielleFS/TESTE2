@@ -9,6 +9,6 @@ Pulll para pegar possiveis atualizações do repositorio remoto
 merge se for necessario
 Push para enviar todos os commites para o repositorio remoto
 
-
-
+Alguma coisa...Arthur...
 alguma coisa alguma coisa 
+
