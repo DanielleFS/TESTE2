@@ -9,7 +9,7 @@ Projeto de teste
 * Danielle
 * Quem mais for
 
-# Vamos para Accenture? Pode Ser Avanade TBM?
+# Vamos para Accenture? Pode Ser 
 
 ## Tem o Banco inter tbm!
 
