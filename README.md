@@ -6,6 +6,8 @@ Projeto de teste
 
 * Gilmar
 * Arthur
+* Isabelle
+* Wladson
 * Danielle
 * Quem mais for
 
