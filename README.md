@@ -9,5 +9,5 @@ Projeto de teste
 * Danielle
 * Quem mais for
 
-# Vamos para Accenture? ou outra empresa ne
+# Vamos para Accenture? ou outra empresa ne?
 
